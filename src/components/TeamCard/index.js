@@ -15,5 +15,4 @@ const TeamCard = props => {
     </Link>
   )
 }
-
 export default TeamCard
